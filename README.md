@@ -16,6 +16,11 @@ Made By RedSideDevils
 
 One line installation:
 ```
-$ git clone https://github.com/YanOScompany/Function-Graphic.git & pip3 install pygame
+$ git clone https://github.com/RedSideDevils/Projectile-Motion & unzip assets.zip
+```
+## How To Run?:
+```
+$ mingw32-make
+$ ./main
 ```
 
